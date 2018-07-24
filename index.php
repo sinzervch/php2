@@ -4,6 +4,4 @@
 
 	echo "Olá HCODE!";
 
-	echo "Olá udemy!";
-
 ?>
